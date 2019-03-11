@@ -30,7 +30,7 @@ for integers, decimals, and the like, JavaScript represents everything as a
 double-precision floating-point number, or _float_. This imposes some
 interesting technical limitations on the precision of the arithmetic we can
 perform with JavaScript. For example:
-
+some changes
 ```js
 0.1 * 0.1;
 //=> 0.010000000000000002
